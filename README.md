@@ -1,2 +1,2 @@
 # Daily-Time-Spent-On-Exercise
-My Tableau Project
+My Tableau Group Project
